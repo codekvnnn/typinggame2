@@ -29,3 +29,31 @@ The Typing Game is a fun and educational game designed to improve your typing sk
 
 2. Install the Pygame library if you haven't already. You can install it using pip:
 
+3. Clone this repository or download the source code.
+
+4. Create a `words.txt` file and populate it with the list of words you want to use in the game (one word per line).
+
+5. Add a background image named `background.jpg` to the project directory (optional).
+
+## Usage
+
+To play the game, run the `typing_game.py` script:
+
+
+- Words will fall from the top of the screen.
+- Type the words as they appear on the screen to score points.
+- Press Enter to submit a typed word.
+- Press Backspace to correct mistakes.
+- The game continues until you decide to exit (press Escape or close the window).
+
+## Customization
+
+You can customize various aspects of the game by modifying the constants in the `typing_game.py` script, such as word speed, font, and screen size.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
